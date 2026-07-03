@@ -1,0 +1,17 @@
+# Python compiler cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local database (SQLite)
+*.db
+
+# Virtual environment (на будущее)
+venv/
+.venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
